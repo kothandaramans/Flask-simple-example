@@ -1,4 +1,4 @@
-# Rest-API
+# Flask-API
 
 <h3>Running Flask Script</h3>
 <code>$ python api.py</code>
